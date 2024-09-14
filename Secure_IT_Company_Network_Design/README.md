@@ -1,0 +1,3 @@
+# Secure IT Company Network Design & Implementation
+
+The secure IT infrastructure project using Cisco Packet Tracer, which involved deploying a Wireless LAN Controller (WLC) with Access Points for department-wide Wi-Fi access. I configured VLANs to segment traffic and enhanced network performance using EtherChannel with LACP. A DHCP server was implemented for dynamic IP assignment, and HSRP ensured high availability with redundant routers. I also set up firewalls for security, along with ISP integration, STP PortFast, and BPDUguard to prevent loops and optimize network stability.
